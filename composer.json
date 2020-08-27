@@ -13,7 +13,7 @@
         {
             "name": "jiajia",
             "homepage": "https://github.com/jiajiagithub/php-graph-sdk"
-        },
+        }
     ],
     "require": {
         "php": "^5.4|^7.0"
