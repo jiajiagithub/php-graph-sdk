@@ -4,7 +4,7 @@
     "keywords": ["facebook", "sdk", "test"],
     "type": "library",
     "homepage": "https://github.com/jiajiagithub/php-graph-sdk",
-    "license": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "Facebook",
