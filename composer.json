@@ -1,15 +1,19 @@
 {
-    "name": "facebook/graph-sdk",
-    "description": "Facebook SDK for PHP",
-    "keywords": ["facebook", "sdk"],
+    "name": "jiajiagithub/graph-sdk",
+    "description": "Facebook SDK for PHP, test",
+    "keywords": ["facebook", "sdk", "test"],
     "type": "library",
-    "homepage": "https://github.com/facebook/php-graph-sdk",
-    "license": "Facebook Platform",
+    "homepage": "https://github.com/jiajiagithub/php-graph-sdk",
+    "license": "",
     "authors": [
         {
             "name": "Facebook",
             "homepage": "https://github.com/facebook/php-graph-sdk/contributors"
-        }
+        },
+        {
+            "name": "jiajia",
+            "homepage": "https://github.com/jiajiagithub/php-graph-sdk"
+        },
     ],
     "require": {
         "php": "^5.4|^7.0"
